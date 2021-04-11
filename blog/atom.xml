@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tomoyd.github.io/blog</id>
+    <title>Tomoyd  Blog</title>
+    <updated>2020-11-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tomoyd.github.io/blog"/>
+    <subtitle>Tomoyd  Blog</subtitle>
+    <icon>https://tomoyd.github.io/img/tomo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Object]]></title>
+        <id>js/Object</id>
+        <link href="https://tomoyd.github.io/blog/js/Object"/>
+        <updated>2020-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Object.create(proto[,propertiesObject])]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[this]]></title>
+        <id>js/this</id>
+        <link href="https://tomoyd.github.io/blog/js/this"/>
+        <updated>2020-11-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[this 的绑定]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hoc(高阶组件)]]></title>
+        <id>hoc</id>
+        <link href="https://tomoyd.github.io/blog/hoc"/>
+        <updated>2020-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[react 高阶组件（HOC）]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浏览器加载渲染]]></title>
+        <id>https/浏览器加载渲染</id>
+        <link href="https://tomoyd.github.io/blog/https/浏览器加载渲染"/>
+        <updated>2020-08-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[支持浏览器核心运行的程序]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浏览器缓存]]></title>
+        <id>https/浏览器缓存</id>
+        <link href="https://tomoyd.github.io/blog/https/浏览器缓存"/>
+        <updated>2020-08-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[发送请求过程]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[错误捕获]]></title>
+        <id>js/捕获错误</id>
+        <link href="https://tomoyd.github.io/blog/js/捕获错误"/>
+        <updated>2020-08-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[需求]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一种基于事件回调的错误处理方式]]></title>
+        <id>js/错误处理</id>
+        <link href="https://tomoyd.github.io/blog/js/错误处理"/>
+        <updated>2020-08-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[需求]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https 如何工作的]]></title>
+        <id>http/https</id>
+        <link href="https://tomoyd.github.io/blog/http/https"/>
+        <updated>2020-08-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[非对称加密]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[grid布局]]></title>
+        <id>css/grid</id>
+        <link href="https://tomoyd.github.io/blog/css/grid"/>
+        <updated>2020-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Grid 布局可以说是 css 中最强大的布局系统，它是二维布局系统，意味着可以处理行列；]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[等高布局几种方案]]></title>
+        <id>css/等高布局</id>
+        <link href="https://tomoyd.github.io/blog/css/等高布局"/>
+        <updated>2020-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[利用 padding-bottom margin-bottom]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用xhr封装成axios]]></title>
+        <id>xhr</id>
+        <link href="https://tomoyd.github.io/blog/xhr"/>
+        <updated>2020-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[待续...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[encodeURI和encodeComponentURI不同]]></title>
+        <id>encodeX</id>
+        <link href="https://tomoyd.github.io/blog/encodeX"/>
+        <updated>2020-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[encodeURIComponent()]]></summary>
+    </entry>
+</feed>
